@@ -13,11 +13,6 @@ This project focuses on cleaning and analyzing a global life expectancy dataset 
   - Relationships between life expectancy and GDP, BMI, adult mortality, and development status
 - Applied aggregations, window functions, and rolling calculations to quantify correlations and trends.
 
-### Tools & Skills
-- SQL (joins, window functions, aggregation, data cleaning)
-- Exploratory Data Analysis (EDA)
-- Time-series and comparative analysis on real-world public health data
-
 ### Key Findings
 - Life expectancy increased globally from 2007 to 2022, with most countries gaining several years; the average global increase is around 5 years.
 - Higher GDP is associated with higher life expectancy, with low-GDP countries generally having shorter life expectancies.
@@ -25,3 +20,7 @@ This project focuses on cleaning and analyzing a global life expectancy dataset 
 - Life expectancy has a nonlinear relationship with BMI: countries with very low BMI (malnutrition) or very high BMI (obesity) often have lower life expectancy, while moderate BMI levels are generally associated with longer life expectancies.
 - Higher adult mortality rates correspond to lower life expectancy, with countries showing lower adult mortality generally experiencing longer life expectancies.
 
+### Tools & Skills
+- SQL (joins, window functions, aggregation, data cleaning)
+- Exploratory Data Analysis (EDA)
+- Time-series and comparative analysis on real-world public health data
