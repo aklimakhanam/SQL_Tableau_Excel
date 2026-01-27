@@ -18,3 +18,10 @@ This project focuses on cleaning and analyzing a global life expectancy dataset 
 - Exploratory Data Analysis (EDA)
 - Time-series and comparative analysis on real-world public health data
 
+### Key Findings
+- Life expectancy increased globally from 2007 to 2022, with most countries gaining several years; the average global increase is around 5 years.
+- Higher GDP is associated with higher life expectancy, with low-GDP countries generally having shorter life expectancies.
+- Developed countries have higher average life expectancy than developing countries, reflecting disparities in healthcare and economic development.
+- Life expectancy has a nonlinear relationship with BMI: countries with very low BMI (malnutrition) or very high BMI (obesity) often have lower life expectancy, while moderate BMI levels are generally associated with longer life expectancies.
+- Higher adult mortality rates correspond to lower life expectancy, with countries showing lower adult mortality generally experiencing longer life expectancies.
+
