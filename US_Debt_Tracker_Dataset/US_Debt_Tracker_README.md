@@ -25,6 +25,3 @@ Daily U.S. Treasury debt records from 1993 to February 2023 (~30 years), coverin
 
 ## Ideas for Further Research
 Stock market performance, housing market trends, credit card purchase volume, and unemployment rates as potential correlates of debt growth patterns.
-
-## Link
-[Project files on GitHub](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Debt_Tracker_Dataset)
