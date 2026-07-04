@@ -26,5 +26,3 @@ Acting as a Data Analyst for the NYC Division of Transportation, the goal was to
 - Cross-reference the highest-delay bus companies against total trip volume and borough to isolate whether delays are company-driven (e.g., maintenance issues) or route/traffic-driven.
 - Prioritize maintenance review for carriers with consistently high average delay times as a potential root cause of recurring mechanical breakdowns.
 
-## Link
-[Project files on GitHub](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/NYC_Public_Transport_Dataset)
